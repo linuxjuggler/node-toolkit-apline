@@ -6,10 +6,10 @@
 
 # **Installed Components:**
 
-1. **node  --version**  : v9.2.1
-1. **npm   --version**  : v5.5.1
+1. **node  --version**  : v9.4.0
+1. **npm   --version**  : v5.6.0
 1. **yarn  --version**  : v1.3.2
-1. **gulp  --version**  : v1.4.0
+1. **gulp  --version**  : v3.9.1
 1. **bower --version**  : v1.8.2
 1. **typescript --version** : v2.6.2
 
